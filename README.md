@@ -1,2 +1,2 @@
-# AYD_PR2_2020
+# Practica2-MYS1_2020
 Modela1
